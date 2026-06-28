@@ -1,0 +1,6 @@
+{
+  "name": "Jogo de Sinuca",
+  "description": "Um jogo de sinuca realista em HTML5 Canvas e TypeScript, com física de colisão precisa e controles de taco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
